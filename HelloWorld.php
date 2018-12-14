@@ -1,4 +1,4 @@
 <?php
 //Prints HelloWorld
-echo "vabisha";
+echo "vanisha";
 ?>
