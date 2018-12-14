@@ -1,6 +1,4 @@
 <?php
 //Prints HelloWorld
-echo "poiuyr
-sdfghlkj
-~~!@#$%^&*()_+";
+echo "karthikabinesh";
 ?>
